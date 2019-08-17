@@ -9,5 +9,5 @@
 3. Set Team Name 을 눌러서 이름을 입력합니다.
 
 <kbd>   
-![Alt](./images/set-team-name.png "set team name")
+<img src="./images/set-team-name.phg">
 </kbd>
