@@ -14,10 +14,7 @@
 <img src="images/set-team-name.png" />
 </kbd>
 
-
-
-
-
+<br /><br />
 4. "Not Approved"가 "Approved"로 변경 될 떄까지 기다립니다. (Admin 승인 필요))
 <kbd>
 <img src="images/waiting-approval.png" />
