@@ -13,7 +13,7 @@
 <kbd>   
 <img src="images/set-team-name.png" />
 </kbd>
-<br /><br />
+<br /><br /><br />
 
 4. "Not Approved"가 "Approved"로 변경 될 떄까지 기다립니다. (Admin 승인 필요))
 <kbd>
@@ -26,18 +26,18 @@
 <kbd>
 <img src="images/approved.png" />
 </kbd>
-<br /><br />
+<br /><br /><br />
 
 6. ** AWS Console ** 을 Click합니다. 
 
 
-<br /><br />
+<br /><br /><br />
 
-<br /><br />
+<br /><br /><br />
 
-<br /><br />
+<br /><br /><br />
 
-<br /><br />
+<br /><br /><br />
 
 
 <br /><br />
