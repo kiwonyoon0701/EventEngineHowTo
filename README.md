@@ -7,23 +7,40 @@
 
 ![Alt](./images/ee-login.png "login page")
 
-<br />
-<br />
+
 3. Set Team Name 을 눌러서 이름 또는 팀명을 입력합니다.
 
 <kbd>   
 <img src="images/set-team-name.png" />
 </kbd>
-
 <br /><br />
+
 4. "Not Approved"가 "Approved"로 변경 될 떄까지 기다립니다. (Admin 승인 필요))
 <kbd>
 <img src="images/waiting-approval.png" />
 </kbd>
+<br /><br />
 
-<br />
-<br />
 5. 승인 후에는 "Not Approved" Message가 없어집니다. 
 <kbd>
 <img src="images/approved.png" />
 </kbd>
+<br /><br />
+
+6. ** AWS Console ** 을 Click합니다. 
+
+
+<br /><br />
+
+<br /><br />
+
+<br /><br />
+
+<br /><br />
+
+
+<br /><br />
+
+
+
+
