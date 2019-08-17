@@ -7,5 +7,6 @@
 ![Alt](./images/ee-login.png "login page")
 
 3. Set Team Name 을 눌러서 이름을 입력합니다.
-4. 
+   
 ![Alt](./images/set-team-name.png "set team name")
+
