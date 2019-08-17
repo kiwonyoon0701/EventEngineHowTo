@@ -19,7 +19,8 @@
 <kbd>
 <img src="images/waiting-approval.png" />
 </kbd>
-<br /><br />
+<br />
+<br />
 
 5. 승인 후에는 "Not Approved" Message가 없어집니다. 
 <kbd>
