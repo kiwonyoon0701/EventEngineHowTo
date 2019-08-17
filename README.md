@@ -36,7 +36,7 @@
 
 8. 성공적으로 AWS Login 후 HOL을 진행합니다.
 <kbd>
-<img src=images/login.png" />
+<img src="images/login.png" />
 </kbd>
 
 
