@@ -9,5 +9,5 @@
 3. Set Team Name 을 눌러서 이름을 입력합니다.
 
 <kbd>   
-<img src="https://github.com/kiwonyoon0701/EventEngineHowTo/blob/master/images/set-team-name.phg">
+<img src="images/set-team-name.png" />
 </kbd>
