@@ -7,7 +7,8 @@
 
 ![Alt](./images/ee-login.png "login page")
 
-
+<br />
+<br />
 3. Set Team Name 을 눌러서 이름 또는 팀명을 입력합니다.
 
 <kbd>   
@@ -20,7 +21,8 @@
 <img src="images/waiting-approval.png" />
 </kbd>
 
-<br>
+<br />
+<br />
 5. 승인 후에는 "Not Approved" Message가 없어집니다. 
 <kbd>
 <img src="images/approved.png" />
