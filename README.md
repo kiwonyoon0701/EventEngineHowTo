@@ -29,19 +29,16 @@
 <br /><br /><br />
 
 6. ** AWS Console ** 을 Click합니다. 
+<br /><br /><br />
+
+7. ** Open Console ** 을 Click합니다. (필요시 Credentials를 메모장등에 복사합니다.)
+<br /><br /><br />
+
+8. 성공적으로 AWS Login 후 HOL을 진행합니다.
+<kbd>
+<img src=images/login.png" />
+</kbd>
 
 
 <br /><br /><br />
-
-<br /><br /><br />
-
-<br /><br /><br />
-
-<br /><br /><br />
-
-
-<br /><br />
-
-
-
 
